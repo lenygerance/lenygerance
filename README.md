@@ -7,7 +7,8 @@ I am a **BTS SIO SLAM** student with a passion for **video game development**, *
 - **UI/UX Design**: I love crafting intuitive and functional designs for users.
 - **Web and Mobile Development**: I'm excited by working on projects using modern technologies.
 
-## 🚀 Technologies I use
+## 🚀 Technologies I use ![image](https://github.com/user-attachments/assets/6961e263-a012-4631-8682-309cacaf6775)
+
 - **Kotlin**: for mobile app development.
 - **TypeScript** & **JavaScript**: for web development and front-end projects.
 
