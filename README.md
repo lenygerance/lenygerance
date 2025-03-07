@@ -1,28 +1,3 @@
-# 👋 Hi, I'm Lény!
-
-I am a **BTS SIO SLAM** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
-
-## 🎮 What I'm passionate about
-- **Video Game Development**: I enjoy creating interactive experiences that blend technical skill and creativity.
-- **UI/UX Design**: I love crafting intuitive and functional designs for users.
-- **Web and Mobile Development**: I'm excited by working on projects using modern technologies.
-
-## 🚀 Technologies I use !
-- **Kotlin**: for mobile app development.
-- **TypeScript** & **JavaScript**: for web development and front-end projects.
-
-## 📂 Projects
-The projects here are mainly:
-- **Personal** projects where I explore new ideas and technologies.
-- **Study-related** projects developed as part of my **BTS SIO SLAM** coursework.
-
-I'm always open to new challenges and interesting collaborations!
-
-## 📫 Get in touch
-Feel free to reach out if you'd like to collaborate or have project opportunities in mind!
-
----
-
 # 👋 Bonjour, je suis Lény !
 
 Je suis étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métier). J'ai une passion pour le **développement de jeux vidéo**, le **design UI/UX**, et la programmation en **Kotlin**, **TypeScript** et **JavaScript**.
@@ -45,3 +20,28 @@ Je suis toujours ouvert à de nouveaux défis et à collaborer sur des projets i
 
 ## 📫 Me contacter
 N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunités de projets !
+
+---
+
+# 👋 Hi, I'm Lény!
+
+I am a **BTS SIO SLAM** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
+
+## 🎮 What I'm passionate about
+- **Video Game Development**: I enjoy creating interactive experiences that blend technical skill and creativity.
+- **UI/UX Design**: I love crafting intuitive and functional designs for users.
+- **Web and Mobile Development**: I'm excited by working on projects using modern technologies.
+
+## 🚀 Technologies I use !
+- **Kotlin**: for mobile app development.
+- **TypeScript** & **JavaScript**: for web development and front-end projects.
+
+## 📂 Projects
+The projects here are mainly:
+- **Personal** projects where I explore new ideas and technologies.
+- **Study-related** projects developed as part of my **BTS SIO SLAM** coursework.
+
+I'm always open to new challenges and interesting collaborations!
+
+## 📫 Get in touch
+Feel free to reach out if you'd like to collaborate or have project opportunities in mind!
