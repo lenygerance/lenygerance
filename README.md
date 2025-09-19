@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Lény !
+# 👋 Bonjour, je suis Willo !
 
 Je suis étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métier). J'ai une passion pour le **développement de jeux vidéo**, le **design UI/UX**, et la programmation en **Kotlin**, **TypeScript** et **JavaScript**.
 
