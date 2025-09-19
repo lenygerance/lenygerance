@@ -23,7 +23,7 @@ N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunité
 
 ---
 
-# 👋 Hi, I'm Lény!
+# 👋 Hi, I'm Willo!
 
 I am a **BTS SIO SLAM** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
 
