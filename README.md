@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Willo !
 
-Je suis étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métier). J'ai une passion pour le **développement de jeux vidéo**, le **design UI/UX**, et la programmation en **Kotlin**, **TypeScript** et **JavaScript**.
+Je suis étudiant en **BUT MMI** (Métiers du multimédia et de l'internet). J'ai une passion pour le **développement de jeux vidéo**, le **design UI/UX**, et la programmation en **Kotlin**, **TypeScript** et **JavaScript**.
 
 ## 🎮 Ce qui me passionne
 - **Développement de jeux vidéo** : J'aime créer des expériences interactives qui allient technique et créativité.
@@ -25,7 +25,7 @@ N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunité
 
 # 👋 Hi, I'm Willo!
 
-I am a **BTS SIO SLAM** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
+I am a **BUT MMI** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
 
 ## 🎮 What I'm passionate about
 - **Video Game Development**: I enjoy creating interactive experiences that blend technical skill and creativity.
