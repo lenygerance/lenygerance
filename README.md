@@ -1,47 +1,19 @@
-# 👋 Bonjour, je suis Willo !
+# 👋 Tototo!, je suis Willo ! 
 
-Je suis étudiant en **BUT MMI** (Métiers du multimédia et de l'internet). J'ai une passion pour le **développement de jeux vidéo**, le **design UI/UX**, et la programmation en **Kotlin**, **TypeScript** et **JavaScript**.
+Vous êtes bien sur mon Github qui a pour objectif de devenir un meilleur dev chaque jour.<br><br>En ce moment je dev sur:<br><br>Développement de jeux vidéo : J'aime créer des expériences interactives qui allient technique et créativité.<br>Design UI/UX : Je suis passionné par la création de designs intuitifs et fonctionnels pour les utilisateurs.<br>Développement web et mobile : J'aime travailler sur des projets utilisant des technologies modernes.
 
-## 🎮 Ce qui me passionne
-- **Développement de jeux vidéo** : J'aime créer des expériences interactives qui allient technique et créativité.
-- **Design UI/UX** : Je suis passionné par la création de designs intuitifs et fonctionnels pour les utilisateurs.
-- **Développement web et mobile** : J'aime travailler sur des projets utilisant des technologies modernes.
 
-## 🚀 Technologies que j'utilise
-- **Kotlin** : pour le développement d'applications mobiles.
-- **TypeScript** & **JavaScript** : pour le développement web et les projets front-end.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/l%C3%A9ny-g%C3%A9rance-85648a307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%A9ny-g%C3%A9rance-85648a307) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lapsusfr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:willodev@gmail.com) 
 
-## 📂 Projets
-Les projets que vous trouverez ici sont principalement :
-- Des projets **personnels** qui me permettent d'explorer de nouvelles idées et technologies.
-- Des projets **étudiants** réalisés dans le cadre de mes études en **BTS SIO SLAM**.
-
-Je suis toujours ouvert à de nouveaux défis et à collaborer sur des projets intéressants !
-
-## 📫 Me contacter
-N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunités de projets !
+# 💻 Mes Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lenygerance&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lenygerance&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenygerance&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=lenygerance&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👋 Hi, I'm Willo!
-
-I am a **BUT MMI** student with a passion for **video game development**, **UI/UX design**, and coding in **Kotlin**, **TypeScript**, and **JavaScript**.
-
-## 🎮 What I'm passionate about
-- **Video Game Development**: I enjoy creating interactive experiences that blend technical skill and creativity.
-- **UI/UX Design**: I love crafting intuitive and functional designs for users.
-- **Web and Mobile Development**: I'm excited by working on projects using modern technologies.
-
-## 🚀 Technologies I use !
-- **Kotlin**: for mobile app development.
-- **TypeScript** & **JavaScript**: for web development and front-end projects.
-
-## 📂 Projects
-The projects here are mainly:
-- **Personal** projects where I explore new ideas and technologies.
-- **Study-related** projects developed as part of my **BTS SIO SLAM** coursework.
-
-I'm always open to new challenges and interesting collaborations!
-
-## 📫 Get in touch
-Feel free to reach out if you'd like to collaborate or have project opportunities in mind!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
