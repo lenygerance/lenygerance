@@ -1,4 +1,4 @@
-# 👋 Tototo!, je suis Willo ! 
+# 👋 Tototo! , je suis Willo ! 
 
 Vous êtes bien sur mon Github qui a pour objectif de devenir un meilleur dev chaque jour.<br><br>En ce moment je dev sur:<br><br>Développement de jeux vidéo : J'aime créer des expériences interactives qui allient technique et créativité.<br>Design UI/UX : Je suis passionné par la création de designs intuitifs et fonctionnels pour les utilisateurs.<br>Développement web et mobile : J'aime travailler sur des projets utilisant des technologies modernes.
 
